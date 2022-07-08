@@ -34,11 +34,7 @@
             <!-- password -->
             <div class="a-spacing-top-medium">
               <label>Password</label>
-              <input
-                class="a-input-text"
-                style="width: 100%"
-                v-model="user.password"
-              />
+              <input class="a-input-text" style="width: 100%" />
             </div>
 
             <!-- button -->
