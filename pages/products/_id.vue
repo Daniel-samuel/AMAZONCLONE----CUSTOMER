@@ -411,10 +411,5 @@ export default {
       console.log(err);
     }
   },
-
-  created() {
-    console.log("confirm");
-    console.log("Vuex:", this.$store.state);
-  },
 };
 </script>

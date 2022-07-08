@@ -1,4 +1,4 @@
-const URL = "http://localhost:8080";
+const URL = "https://amazon-double.herokuapp.com";
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
